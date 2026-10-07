@@ -9,7 +9,7 @@ if(number % 2 == 0){
 } 
 else
 {
-	printf("number is negative = %d", number);
+	printf("number is negative = %d", number); //tiv@ bacasakan e
 }
         return 0;
 }
