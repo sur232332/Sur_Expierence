@@ -1,0 +1,2 @@
+SET R4 10
+HALT
