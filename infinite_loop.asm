@@ -1,0 +1,3 @@
+SET R0 1
+JNZ R0 1
+HALT
